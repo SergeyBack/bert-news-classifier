@@ -6,14 +6,14 @@ TransformersPractice/
 ├── models/
 │   └── bert-ag-news/          # Fine-tuned BERT model (not in git)
 ├── src/
-│   ├── tokenization.ipynb     # Day 1: Tokenization basics
-│   ├── hidden_states.ipynb    # Day 2: Extracting hidden states
-│   ├── attention.ipynb        # Day 3: Attention visualization
-│   ├── classification.ipynb   # Day 4: Baseline (frozen BERT + LogReg)
-│   ├── finetuning.ipynb       # Day 5: Fine-tuning BERT
-│   ├── inference.ipynb        # Day 6: Inference and comparison
-│   ├── error_analysis.ipynb   # Day 7: Error analysis
-│   └── app.py                 # Day 7: Gradio demo app
+│   ├── tokenization.ipynb     Tokenization basics
+│   ├── hidden_states.ipynb    Extracting hidden states
+│   ├── attention.ipynb        Attention visualization
+│   ├── classification.ipynb   Baseline (frozen BERT + LogReg)
+│   ├── finetuning.ipynb       Fine-tuning BERT
+│   ├── inference.ipynb        Inference and comparison
+│   ├── error_analysis.ipynb   Error analysis
+│   └── app.py                 Gradio demo app
 └── README.md
 ```
 
