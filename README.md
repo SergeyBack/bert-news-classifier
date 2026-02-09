@@ -1,4 +1,9 @@
-# Transformers
+# BERT News Classifier
+
+Fine-tuned BERT model for news article classification into 4 categories: World, Sports, Business, and Sci/Tech. Includes training pipeline, error analysis, and a Gradio web demo.
+
+Built with PyTorch and Hugging Face Transformers.
+
 ## Project Structure
 
 ```
@@ -68,4 +73,3 @@ python src/app.py
 ```
 
 Opens a web interface at `http://localhost:7860` where you can classify news articles.
-# bert-news-classifier
